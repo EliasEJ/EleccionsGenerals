@@ -61,10 +61,10 @@ Retorna el resultat a la funció anterior.
 ```
    
 # Consultes
-- **[Categoria 1:](https://github.com/Georgetime2003/GrupC_EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_1.md)** Hem fet servir funcions d'agrupar, ordenar, de caràcters i operadors 
-- **[Categoria 2:](https://github.com/Georgetime2003/GrupC_EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_2.md)** Hem fet servir INNER JOIN i el LEFT JOIN.
-- **[Categoria 3:](https://github.com/Georgetime2003/GrupC_EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_3.md)** Hem fet servir subconsultes 
-- **[Categoria 4:](https://github.com/Georgetime2003/GrupC_EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_4.md)** Hem fet servir el WINDOW FUNCTIONS. També conte una subconsulta, JOINs, funcions d'agrupació i d'ordenació.  
+- **[Categoria 1:](https://github.com/EliasEJ/EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_1.md)** Hem fet servir funcions d'agrupar, ordenar, de caràcters i operadors 
+- **[Categoria 2:](https://github.com/EliasEJ/EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_2.md)** Hem fet servir INNER JOIN i el LEFT JOIN.
+- **[Categoria 3:](https://github.com/EliasEJ/EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_3.md)** Hem fet servir subconsultes 
+- **[Categoria 4:](https://github.com/EliasEJ/EleccionsGenerals/blob/main/Consultes/Consultes_Categoria_4.md)** Hem fet servir el WINDOW FUNCTIONS. També conte una subconsulta, JOINs, funcions d'agrupació i d'ordenació.  
 
 # Repositori GIT
 
